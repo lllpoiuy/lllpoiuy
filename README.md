@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m currently learning in Tsinghua University.
+
+How to reach me: 86179118@qq.com linsh24@mails.tsinghua.edu.cn
+
 <!--
 **lllpoiuy/lllpoiuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
