@@ -2,6 +2,8 @@
 
 I’m currently learning in Tsinghua University.
 
+Research interest: robot learning, embodied AI, robotics.
+
 How to reach me: 86179118@qq.com linsh24@mails.tsinghua.edu.cn
 
 <!--
